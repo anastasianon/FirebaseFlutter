@@ -1,16 +1,18 @@
-# flutter_firebase
+#Практическая работа 8
+## Цель работы: Реализовать приложение с использование FirebaseAuth, реализовать функции: Аутентификация пользователя по почте и логину, аутентификация анонимного пользователя, аутентификация в Firebase с использованием ссылок электронной почты.
+# Ход работы:
+# Создание экрана авторизации.
 
-A new Flutter project.
+<img src="/img/8.png" alt="image">
 
-## Getting Started
+# Созданиу функции аннонимного входа.
+# Пример аннонимного входа
+# Создание функции почте и паролю.
+# Пример авторизации через почту и пароль.
+# Созданиe функции выйти.
+# Открываем firebase проверяем правильность работы.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
