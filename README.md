@@ -1,16 +1,44 @@
-# flutter_firebase
+**ПРАКТИЧЕСКАЯ РАБОТА №9 И 10**
 
-A new Flutter project.
+**Тема:** работа с firestore и firestorage.
 
-## Getting Started
+**Цель работы:**
 
-This project is a starting point for a Flutter application.
+1. Создать приложение с сохранением данных firestore, crud и динамическим обновлением данных.
+2. Создать приложение с сохранением фотографий в firestorage, а самих данных в firestore.
 
-A few resources to get you started if this is your first Flutter project:
+**Ход работы:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Класс с авторизацией и регистрацией
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="/img/0.jpg" alt="image">
+
+1. Пример авторизации и регистрации
+
+<img src="/img/1.jpg" alt="image">
+
+1. Класс работы с данными
+
+<img src="/img/2.jpg" alt="image">
+
+1. Данные пользователей в firestore
+
+<img src="/img/3.jpg" alt="image">
+
+1. Пример работы с данными
+
+<img src="/img/4.jpg" alt="image">
+
+1. Вывод изображений и редактирование названия
+
+<img src="/img/5.jpg" alt="image">
+
+<img src="/img/6.jpg" alt="image">
+
+1. Пример
+
+<img src="/img/7.jpg" alt="image">
+
+<img src="/img/9.jpg" alt="image">
+
+Вывод: в ходе данной практической работы было создано приложение с сохранением данных firestore, crud и динамическим обновлением данных и с сохранением фотографий в firestorage, а самих данных в firestore.
